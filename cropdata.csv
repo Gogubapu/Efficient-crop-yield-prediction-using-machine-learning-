@@ -1,0 +1,402 @@
+District_Name,Crop_Year,Season,Crop,Area,Production
+Adilabad,1999,Whole Year ,Sugarcane,53888,6143232
+Adilabad,2000,Whole Year ,Sugarcane,62050,7014752
+Adilabad,2001,Whole Year ,Sugarcane,60450,5570468
+Adilabad,2002,Whole Year ,Sugarcane,58694,5241374
+Adilabad,2003,Whole Year ,Sugarcane,38744,2834124
+Adilabad,2005,Whole Year ,Sugarcane,37783,3445810
+Adilabad,2006,Whole Year ,Sugarcane,48913,4274996
+Adilabad,2007,Whole Year ,Sugarcane,57399,5071202
+Adilabad,2008,Whole Year ,Sugarcane,56598,5860723
+Adilabad,2009,Whole Year ,Sugarcane,63833,6549266
+Adilabad,2010,Whole Year ,Sugarcane,79930,7897084
+Adilabad,2011,Whole Year ,Sugarcane,89361,8064830
+Adilabad,2012,Whole Year ,Sugarcane,91361,7984951
+Adilabad,2013,Whole Year ,Sugarcane,86942,9002844
+Adilabad,2014,Whole Year ,Sugarcane,93679,10234431
+BANGALORE RURAL,1999,Whole Year ,Sugarcane,1484,149439
+BANGALORE RURAL,2000,Whole Year ,Sugarcane,1548,158825
+BANGALORE RURAL,2001,Whole Year ,Sugarcane,1608,129846
+BANGALORE RURAL,2002,Whole Year ,Sugarcane,1959,180522
+BANGALORE RURAL,2003,Whole Year ,Sugarcane,589,39728
+BANGALORE RURAL,2005,Whole Year ,Sugarcane,331,29244
+BANGALORE RURAL,2006,Whole Year ,Sugarcane,1753,169866
+BANGALORE RURAL,2007,Whole Year ,Sugarcane,8,676
+BANGALORE RURAL,2008,Whole Year ,Sugarcane,93,8040
+BANGALORE RURAL,2010,Whole Year ,Sugarcane,8,775
+BANGALORE RURAL,2012,Whole Year ,Sugarcane,3,251
+BANGALORE RURAL,2013,Whole Year ,Sugarcane,1,89
+BELGAUM,1997,Whole Year ,Sugarcane,125173,11177949
+BELGAUM,1999,Whole Year ,Sugarcane,140512,13081667
+BELGAUM,2000,Whole Year ,Sugarcane,174706,17924836
+BELGAUM,2001,Whole Year ,Sugarcane,156043,10969823
+BELGAUM,2002,Whole Year ,Sugarcane,145133,10892232
+BELGAUM,2003,Whole Year ,Sugarcane,105237,4898782
+BELGAUM,2005,Whole Year ,Sugarcane,92971,8213988
+BELGAUM,2006,Whole Year ,Sugarcane,97762,8265777
+BELGAUM,2007,Whole Year ,Sugarcane,102845,9281761
+BELGAUM,2008,Whole Year ,Sugarcane,114181,9654004
+BELGAUM,2009,Whole Year ,Sugarcane,147298,14972842
+BELGAUM,2010,Whole Year ,Sugarcane,187884,18027470
+BELGAUM,2011,Whole Year ,Sugarcane,171205,16264475
+BELGAUM,2012,Whole Year ,Sugarcane,168128,13895779
+BELGAUM,2013,Whole Year ,Sugarcane,159443,14389731
+BELGAUM,2014,Whole Year ,Sugarcane,180571,16296533
+BELLARY,1997,Whole Year ,Sugarcane,6945,488234
+BELLARY,1999,Whole Year ,Sugarcane,7336,655105
+BELLARY,2000,Whole Year ,Sugarcane,7174,783760
+BELLARY,2001,Whole Year ,Sugarcane,7666,750118
+BELLARY,2002,Whole Year ,Sugarcane,5327,384609
+BELLARY,2003,Whole Year ,Sugarcane,1831,121762
+BELLARY,2005,Whole Year ,Sugarcane,3531,338799
+BELLARY,2006,Whole Year ,Sugarcane,3293,297193
+BELLARY,2007,Whole Year ,Sugarcane,2402,203089
+BELLARY,2008,Whole Year ,Sugarcane,1932,249614
+BELLARY,2009,Whole Year ,Sugarcane,2464,238762
+BELLARY,2010,Whole Year ,Sugarcane,1363,130780
+BELLARY,2011,Whole Year ,Sugarcane,3806,318182
+BELLARY,2012,Whole Year ,Sugarcane,5660,483930
+BELLARY,2013,Whole Year ,Sugarcane,6004,484823
+BELLARY,2014,Whole Year ,Sugarcane,3406,349456
+BENGALURU URBAN,1997,Whole Year ,Sugarcane,1585,149070
+BENGALURU URBAN,1999,Whole Year ,Sugarcane,66,6646
+BENGALURU URBAN,2000,Whole Year ,Sugarcane,58,5951
+BENGALURU URBAN,2001,Whole Year ,Sugarcane,50,4038
+BENGALURU URBAN,2002,Whole Year ,Sugarcane,91,7694
+BENGALURU URBAN,2003,Whole Year ,Sugarcane,5,328
+BENGALURU URBAN,2006,Whole Year ,Sugarcane,20,1748
+BENGALURU URBAN,2007,Whole Year ,Sugarcane,20,1691
+BENGALURU URBAN,2010,Whole Year ,Sugarcane,3,291
+BENGALURU URBAN,2012,Whole Year ,Sugarcane,12,1003
+BENGALURU URBAN,2014,Whole Year ,Sugarcane,2,182
+BIDAR,1997,Whole Year ,Sugarcane,22571,1543856
+BIDAR,1999,Whole Year ,Sugarcane,26826,2140715
+BIDAR,2000,Whole Year ,Sugarcane,30929,2086161
+BIDAR,2001,Whole Year ,Sugarcane,29225,1415951
+BIDAR,2002,Whole Year ,Sugarcane,30943,2234085
+BIDAR,2003,Whole Year ,Sugarcane,23197,1476489
+BIDAR,2005,Whole Year ,Sugarcane,23366,1531641
+BIDAR,2006,Whole Year ,Sugarcane,26114,1885431
+BIDAR,2007,Whole Year ,Sugarcane,27086,1852682
+BIDAR,2008,Whole Year ,Sugarcane,24616,1426497
+BIDAR,2009,Whole Year ,Sugarcane,25686,1805726
+BIDAR,2010,Whole Year ,Sugarcane,31299,2200320
+BIDAR,2011,Whole Year ,Sugarcane,25507,1744679
+BIDAR,2012,Whole Year ,Sugarcane,31522,2186051
+BIDAR,2013,Whole Year ,Sugarcane,26490,1937744
+BIDAR,2014,Whole Year ,Sugarcane,28867,1892232
+BIJAPUR,1997,Whole Year ,Sugarcane,56484,5795258
+BIJAPUR,1999,Whole Year ,Sugarcane,15680,1787520
+BIJAPUR,2000,Whole Year ,Sugarcane,20426,1727018
+BIJAPUR,2001,Whole Year ,Sugarcane,20460,1069035
+BIJAPUR,2002,Whole Year ,Sugarcane,18537,1355982
+BIJAPUR,2003,Whole Year ,Sugarcane,8068,505864
+BIJAPUR,2005,Whole Year ,Sugarcane,11364,863664
+BIJAPUR,2006,Whole Year ,Sugarcane,22734,1447019
+BIJAPUR,2007,Whole Year ,Sugarcane,29191,1608424
+BIJAPUR,2008,Whole Year ,Sugarcane,20604,1096133
+BIJAPUR,2009,Whole Year ,Sugarcane,27663,1892149
+BIJAPUR,2010,Whole Year ,Sugarcane,41377,3459117
+BIJAPUR,2011,Whole Year ,Sugarcane,44208,3233815
+BIJAPUR,2012,Whole Year ,Sugarcane,37382,2770006
+BIJAPUR,2013,Whole Year ,Sugarcane,44914,3456132
+BIJAPUR,2014,Whole Year ,Sugarcane,49050,3914190
+CHAMARAJANAGAR,1999,Whole Year ,Sugarcane,19079,2301881
+CHAMARAJANAGAR,2000,Whole Year ,Sugarcane,15397,1857648
+CHAMARAJANAGAR,2001,Whole Year ,Sugarcane,18026,1729595
+CHAMARAJANAGAR,2002,Whole Year ,Sugarcane,16755,1687228
+CHAMARAJANAGAR,2003,Whole Year ,Sugarcane,7581,626570
+CHAMARAJANAGAR,2005,Whole Year ,Sugarcane,6365,586535
+CHAMARAJANAGAR,2006,Whole Year ,Sugarcane,8039,702609
+CHAMARAJANAGAR,2007,Whole Year ,Sugarcane,8465,804175
+CHAMARAJANAGAR,2008,Whole Year ,Sugarcane,8665,716162
+CHAMARAJANAGAR,2009,Whole Year ,Sugarcane,8511,719605
+CHAMARAJANAGAR,2010,Whole Year ,Sugarcane,6422,671099
+CHAMARAJANAGAR,2011,Whole Year ,Sugarcane,8513,1067530
+CHAMARAJANAGAR,2012,Whole Year ,Sugarcane,7548,559307
+CHAMARAJANAGAR,2013,Whole Year ,Sugarcane,3050,289750
+CHAMARAJANAGAR,2014,Whole Year ,Sugarcane,3573,298703
+CHIKBALLAPUR,2009,Whole Year ,Sugarcane,41,3934
+CHIKBALLAPUR,2010,Whole Year ,Sugarcane,267,25872
+CHIKBALLAPUR,2011,Whole Year ,Sugarcane,202,18422
+CHIKBALLAPUR,2012,Whole Year ,Sugarcane,212,17723
+CHIKBALLAPUR,2014,Whole Year ,Sugarcane,58,5290
+CHIKMAGALUR,1997,Whole Year ,Sugarcane,1488,163978
+CHIKMAGALUR,1999,Whole Year ,Sugarcane,1235,140790
+CHIKMAGALUR,2000,Whole Year ,Sugarcane,2037,158682
+CHIKMAGALUR,2001,Whole Year ,Sugarcane,1867,150760
+CHIKMAGALUR,2002,Whole Year ,Sugarcane,1790,175152
+CHIKMAGALUR,2003,Whole Year ,Sugarcane,1274,108927
+CHIKMAGALUR,2005,Whole Year ,Sugarcane,1504,132878
+CHIKMAGALUR,2006,Whole Year ,Sugarcane,2632,207533
+CHIKMAGALUR,2007,Whole Year ,Sugarcane,827,64423
+CHIKMAGALUR,2008,Whole Year ,Sugarcane,688,39216
+CHIKMAGALUR,2009,Whole Year ,Sugarcane,620,48887
+CHIKMAGALUR,2010,Whole Year ,Sugarcane,817,64420
+CHIKMAGALUR,2011,Whole Year ,Sugarcane,894,68793
+CHIKMAGALUR,2012,Whole Year ,Sugarcane,1532,85869
+CHIKMAGALUR,2013,Whole Year ,Sugarcane,1546,88122
+CHIKMAGALUR,2014,Whole Year ,Sugarcane,1391,132145
+CHITRADURGA,1997,Whole Year ,Sugarcane,8378,827746
+CHITRADURGA,1999,Whole Year ,Sugarcane,1314,132320
+CHITRADURGA,2000,Whole Year ,Sugarcane,2095,214947
+CHITRADURGA,2001,Whole Year ,Sugarcane,2231,180153
+CHITRADURGA,2002,Whole Year ,Sugarcane,1385,114470
+CHITRADURGA,2003,Whole Year ,Sugarcane,330,22258
+CHITRADURGA,2006,Whole Year ,Sugarcane,60,5244
+CHITRADURGA,2007,Whole Year ,Sugarcane,65,5496
+CHITRADURGA,2010,Whole Year ,Sugarcane,4,388
+CHITRADURGA,2011,Whole Year ,Sugarcane,10,912
+CHITRADURGA,2012,Whole Year ,Sugarcane,37,3093
+DAKSHIN KANNAD,1997,Whole Year ,Sugarcane,2154,188260
+DAKSHIN KANNAD,1999,Whole Year ,Sugarcane,598,60219
+DAKSHIN KANNAD,2000,Whole Year ,Sugarcane,340,34884
+DAKSHIN KANNAD,2001,Whole Year ,Sugarcane,378,30524
+DAKSHIN KANNAD,2002,Whole Year ,Sugarcane,197,16656
+DAKSHIN KANNAD,2003,Whole Year ,Sugarcane,23,1508
+DAKSHIN KANNAD,2006,Whole Year ,Sugarcane,18,1573
+DAKSHIN KANNAD,2008,Whole Year ,Sugarcane,19,1643
+DAKSHIN KANNAD,2009,Whole Year ,Sugarcane,16,1535
+DAKSHIN KANNAD,2010,Whole Year ,Sugarcane,16,1550
+DAKSHIN KANNAD,2011,Whole Year ,Sugarcane,19,1733
+DAKSHIN KANNAD,2012,Whole Year ,Sugarcane,25,2090
+DAKSHIN KANNAD,2013,Whole Year ,Sugarcane,16,1444
+DAKSHIN KANNAD,2014,Whole Year ,Sugarcane,10,912
+DAVANGERE,1999,Whole Year ,Sugarcane,14872,551008
+DAVANGERE,2000,Whole Year ,Sugarcane,16906,2120012
+DAVANGERE,2001,Whole Year ,Sugarcane,22295,2181566
+DAVANGERE,2002,Whole Year ,Sugarcane,19992,2146141
+DAVANGERE,2003,Whole Year ,Sugarcane,8150,696825
+DAVANGERE,2005,Whole Year ,Sugarcane,5890,654674
+DAVANGERE,2006,Whole Year ,Sugarcane,3653,451146
+DAVANGERE,2007,Whole Year ,Sugarcane,7222,809586
+DAVANGERE,2008,Whole Year ,Sugarcane,2679,285046
+DAVANGERE,2009,Whole Year ,Sugarcane,3697,453067
+DAVANGERE,2010,Whole Year ,Sugarcane,4865,660910
+DAVANGERE,2011,Whole Year ,Sugarcane,5281,702373
+DAVANGERE,2012,Whole Year ,Sugarcane,4362,480692
+DAVANGERE,2013,Whole Year ,Sugarcane,6900,793155
+DAVANGERE,2014,Whole Year ,Sugarcane,9523,1221325
+DHARWAD,1997,Whole Year ,Sugarcane,7762,442434
+DHARWAD,1999,Whole Year ,Sugarcane,3906,359938
+DHARWAD,2000,Whole Year ,Sugarcane,3522,317860
+DHARWAD,2001,Whole Year ,Sugarcane,2868,209794
+DHARWAD,2002,Whole Year ,Sugarcane,3560,223212
+DHARWAD,2003,Whole Year ,Sugarcane,3039,98160
+DHARWAD,2005,Whole Year ,Sugarcane,1247,110172
+DHARWAD,2006,Whole Year ,Sugarcane,1383,89342
+DHARWAD,2007,Whole Year ,Sugarcane,3722,240441
+DHARWAD,2008,Whole Year ,Sugarcane,2869,177161
+DHARWAD,2009,Whole Year ,Sugarcane,872,61302
+DHARWAD,2010,Whole Year ,Sugarcane,4533,254075
+DHARWAD,2011,Whole Year ,Sugarcane,3465,207380
+DHARWAD,2012,Whole Year ,Sugarcane,4534,297204
+DHARWAD,2013,Whole Year ,Sugarcane,3706,253490
+DHARWAD,2014,Whole Year ,Sugarcane,8653,641187
+GADAG,1999,Whole Year ,Sugarcane,130,13091
+GADAG,2000,Whole Year ,Sugarcane,347,35602
+GADAG,2001,Whole Year ,Sugarcane,535,43201
+GADAG,2002,Whole Year ,Sugarcane,550,46502
+GADAG,2003,Whole Year ,Sugarcane,92,6031
+GADAG,2005,Whole Year ,Sugarcane,38,3357
+GADAG,2006,Whole Year ,Sugarcane,87,7604
+GADAG,2007,Whole Year ,Sugarcane,101,8540
+GADAG,2008,Whole Year ,Sugarcane,178,15388
+GADAG,2009,Whole Year ,Sugarcane,107,10267
+GADAG,2010,Whole Year ,Sugarcane,852,82559
+GADAG,2011,Whole Year ,Sugarcane,4305,392616
+GADAG,2012,Whole Year ,Sugarcane,1572,131419
+GADAG,2013,Whole Year ,Sugarcane,964,89748
+GADAG,2014,Whole Year ,Sugarcane,1870,197192
+GULBARGA,1997,Whole Year ,Sugarcane,5032,411114
+GULBARGA,1999,Whole Year ,Sugarcane,8535,810825
+GULBARGA,2000,Whole Year ,Sugarcane,9673,680012
+GULBARGA,2001,Whole Year ,Sugarcane,7861,575032
+GULBARGA,2002,Whole Year ,Sugarcane,8228,414280
+GULBARGA,2003,Whole Year ,Sugarcane,5724,184885
+GULBARGA,2005,Whole Year ,Sugarcane,4494,273235
+GULBARGA,2006,Whole Year ,Sugarcane,5330,324064
+GULBARGA,2007,Whole Year ,Sugarcane,12797,802372
+GULBARGA,2008,Whole Year ,Sugarcane,7944,407527
+GULBARGA,2009,Whole Year ,Sugarcane,11995,763482
+GULBARGA,2010,Whole Year ,Sugarcane,10891,724252
+GULBARGA,2011,Whole Year ,Sugarcane,15074,615773
+GULBARGA,2012,Whole Year ,Sugarcane,14801,731169
+GULBARGA,2013,Whole Year ,Sugarcane,27602,1678202
+GULBARGA,2014,Whole Year ,Sugarcane,45503,3025950
+HASSAN,1997,Whole Year ,Sugarcane,4919,495343
+HASSAN,1999,Whole Year ,Sugarcane,5054,576156
+HASSAN,2000,Whole Year ,Sugarcane,5560,623276
+HASSAN,2001,Whole Year ,Sugarcane,7159,720911
+HASSAN,2002,Whole Year ,Sugarcane,8610,842488
+HASSAN,2003,Whole Year ,Sugarcane,3792,392662
+HASSAN,2005,Whole Year ,Sugarcane,2542,258394
+HASSAN,2006,Whole Year ,Sugarcane,5730,664107
+HASSAN,2007,Whole Year ,Sugarcane,5049,412503
+HASSAN,2008,Whole Year ,Sugarcane,2659,267761
+HASSAN,2009,Whole Year ,Sugarcane,2015,235453
+HASSAN,2010,Whole Year ,Sugarcane,3640,394212
+HASSAN,2011,Whole Year ,Sugarcane,2180,213313
+HASSAN,2012,Whole Year ,Sugarcane,2428,182221
+HASSAN,2013,Whole Year ,Sugarcane,1463,122307
+HASSAN,2014,Whole Year ,Sugarcane,1568,171304
+HAVERI,1999,Whole Year ,Sugarcane,7251,668180
+HAVERI,2000,Whole Year ,Sugarcane,7565,718675
+HAVERI,2001,Whole Year ,Sugarcane,5763,454413
+HAVERI,2002,Whole Year ,Sugarcane,3391,125637
+HAVERI,2003,Whole Year ,Sugarcane,2246,98150
+HAVERI,2005,Whole Year ,Sugarcane,1135,100277
+HAVERI,2006,Whole Year ,Sugarcane,1069,92415
+HAVERI,2007,Whole Year ,Sugarcane,2189,155966
+HAVERI,2008,Whole Year ,Sugarcane,2237,110508
+HAVERI,2009,Whole Year ,Sugarcane,965,72423
+HAVERI,2010,Whole Year ,Sugarcane,1489,141455
+HAVERI,2011,Whole Year ,Sugarcane,3397,280762
+HAVERI,2012,Whole Year ,Sugarcane,5676,372062
+HAVERI,2013,Whole Year ,Sugarcane,7338,871388
+HAVERI,2014,Whole Year ,Sugarcane,10376,1094149
+KODAGU,1997,Whole Year ,Sugarcane,7,658
+KOLAR,1997,Whole Year ,Sugarcane,3183,290290
+KOLAR,1999,Whole Year ,Sugarcane,4101,483098
+KOLAR,2000,Whole Year ,Sugarcane,2545,198256
+KOLAR,2001,Whole Year ,Sugarcane,1225,123358
+KOLAR,2002,Whole Year ,Sugarcane,1268,104800
+KOLAR,2003,Whole Year ,Sugarcane,692,46018
+KOLAR,2005,Whole Year ,Sugarcane,402,35517
+KOLAR,2006,Whole Year ,Sugarcane,327,28580
+KOLAR,2007,Whole Year ,Sugarcane,100,8455
+KOLAR,2010,Whole Year ,Sugarcane,300,29070
+KOLAR,2011,Whole Year ,Sugarcane,70,6384
+KOLAR,2012,Whole Year ,Sugarcane,95,7942
+KOPPAL,1999,Whole Year ,Sugarcane,2194,220936
+KOPPAL,2000,Whole Year ,Sugarcane,1714,154688
+KOPPAL,2001,Whole Year ,Sugarcane,1418,111809
+KOPPAL,2002,Whole Year ,Sugarcane,668,41884
+KOPPAL,2007,Whole Year ,Sugarcane,916,77448
+KOPPAL,2008,Whole Year ,Sugarcane,417,36050
+KOPPAL,2009,Whole Year ,Sugarcane,334,32047
+KOPPAL,2010,Whole Year ,Sugarcane,403,39051
+KOPPAL,2011,Whole Year ,Sugarcane,1225,111720
+KOPPAL,2012,Whole Year ,Sugarcane,2100,175560
+KOPPAL,2013,Whole Year ,Sugarcane,2593,231555
+KOPPAL,2014,Whole Year ,Sugarcane,2383,217330
+MANDYA,1997,Whole Year ,Sugarcane,26846,2958429
+MANDYA,1999,Whole Year ,Sugarcane,31377,4113525
+MANDYA,2000,Whole Year ,Sugarcane,27708,3632519
+MANDYA,2001,Whole Year ,Sugarcane,35063,4263661
+MANDYA,2002,Whole Year ,Sugarcane,29686,3356002
+MANDYA,2003,Whole Year ,Sugarcane,13042,1474398
+MANDYA,2005,Whole Year ,Sugarcane,13131,1384664
+MANDYA,2006,Whole Year ,Sugarcane,18847,2076939
+MANDYA,2007,Whole Year ,Sugarcane,23864,2335092
+MANDYA,2008,Whole Year ,Sugarcane,22257,2643019
+MANDYA,2009,Whole Year ,Sugarcane,24342,2682488
+MANDYA,2010,Whole Year ,Sugarcane,38031,5021994
+MANDYA,2011,Whole Year ,Sugarcane,30966,4089060
+MANDYA,2012,Whole Year ,Sugarcane,28751,3468808
+MANDYA,2013,Whole Year ,Sugarcane,19462,2496002
+MANDYA,2014,Whole Year ,Sugarcane,21592,2543538
+MYSORE,1997,Whole Year ,Sugarcane,19349,2058734
+MYSORE,1999,Whole Year ,Sugarcane,11118,1288576
+MYSORE,2000,Whole Year ,Sugarcane,8964,698296
+MYSORE,2001,Whole Year ,Sugarcane,11009,983104
+MYSORE,2002,Whole Year ,Sugarcane,13048,1351120
+MYSORE,2003,Whole Year ,Sugarcane,9849,1253778
+MYSORE,2005,Whole Year ,Sugarcane,8744,988509
+MYSORE,2006,Whole Year ,Sugarcane,11178,1592865
+MYSORE,2007,Whole Year ,Sugarcane,10002,1178236
+MYSORE,2008,Whole Year ,Sugarcane,5588,637032
+MYSORE,2009,Whole Year ,Sugarcane,8435,897484
+MYSORE,2010,Whole Year ,Sugarcane,12303,1367478
+MYSORE,2011,Whole Year ,Sugarcane,11500,1190825
+MYSORE,2012,Whole Year ,Sugarcane,6545,547162
+MYSORE,2013,Whole Year ,Sugarcane,7995,683572
+MYSORE,2014,Whole Year ,Sugarcane,4104,374285
+RAICHUR,1997,Whole Year ,Sugarcane,1304,122641
+RAICHUR,1999,Whole Year ,Sugarcane,88,8862
+RAICHUR,2000,Whole Year ,Sugarcane,51,5233
+RAICHUR,2001,Whole Year ,Sugarcane,41,3311
+RAICHUR,2002,Whole Year ,Sugarcane,142,12006
+RAICHUR,2003,Whole Year ,Sugarcane,7,459
+RAICHUR,2005,Whole Year ,Sugarcane,3,265
+RAICHUR,2006,Whole Year ,Sugarcane,15,1311
+RAICHUR,2007,Whole Year ,Sugarcane,81,6849
+RAICHUR,2009,Whole Year ,Sugarcane,30,2879
+RAICHUR,2010,Whole Year ,Sugarcane,134,12985
+RAICHUR,2012,Whole Year ,Sugarcane,382,31935
+RAICHUR,2013,Whole Year ,Sugarcane,345,30808
+RAICHUR,2014,Whole Year ,Sugarcane,295,26904
+RAMANAGARA,2007,Whole Year ,Sugarcane,195,13338
+RAMANAGARA,2008,Whole Year ,Sugarcane,936,86252
+RAMANAGARA,2009,Whole Year ,Sugarcane,863,87724
+RAMANAGARA,2010,Whole Year ,Sugarcane,924,100947
+RAMANAGARA,2011,Whole Year ,Sugarcane,876,74066
+RAMANAGARA,2012,Whole Year ,Sugarcane,719,66256
+RAMANAGARA,2013,Whole Year ,Sugarcane,191,14697
+RAMANAGARA,2014,Whole Year ,Sugarcane,1027,67320
+SHIMOGA,1997,Whole Year ,Sugarcane,12141,1614753
+SHIMOGA,1999,Whole Year ,Sugarcane,11398,1342684
+SHIMOGA,2000,Whole Year ,Sugarcane,10764,1278225
+SHIMOGA,2001,Whole Year ,Sugarcane,9682,1020967
+SHIMOGA,2002,Whole Year ,Sugarcane,9961,1305887
+SHIMOGA,2003,Whole Year ,Sugarcane,8333,1029126
+SHIMOGA,2005,Whole Year ,Sugarcane,5314,580554
+SHIMOGA,2006,Whole Year ,Sugarcane,7666,808380
+SHIMOGA,2007,Whole Year ,Sugarcane,9044,790446
+SHIMOGA,2008,Whole Year ,Sugarcane,2625,261844
+SHIMOGA,2009,Whole Year ,Sugarcane,3739,454662
+SHIMOGA,2010,Whole Year ,Sugarcane,5900,650180
+SHIMOGA,2011,Whole Year ,Sugarcane,4197,442574
+SHIMOGA,2012,Whole Year ,Sugarcane,3943,449502
+SHIMOGA,2013,Whole Year ,Sugarcane,4915,471594
+SHIMOGA,2014,Whole Year ,Sugarcane,3940,393015
+TUMKUR,1997,Whole Year ,Sugarcane,1732,171122
+TUMKUR,1999,Whole Year ,Sugarcane,1674,197197
+TUMKUR,2000,Whole Year ,Sugarcane,2327,238750
+TUMKUR,2001,Whole Year ,Sugarcane,1736,140182
+TUMKUR,2002,Whole Year ,Sugarcane,1426,131406
+TUMKUR,2003,Whole Year ,Sugarcane,574,38171
+TUMKUR,2005,Whole Year ,Sugarcane,267,23589
+TUMKUR,2006,Whole Year ,Sugarcane,1560,136344
+TUMKUR,2007,Whole Year ,Sugarcane,2003,169354
+TUMKUR,2008,Whole Year ,Sugarcane,2063,178346
+TUMKUR,2009,Whole Year ,Sugarcane,1683,188664
+TUMKUR,2010,Whole Year ,Sugarcane,1650,161452
+TUMKUR,2011,Whole Year ,Sugarcane,2066,178606
+TUMKUR,2012,Whole Year ,Sugarcane,1747,147709
+TUMKUR,2013,Whole Year ,Sugarcane,1556,122691
+TUMKUR,2014,Whole Year ,Sugarcane,1670,174515
+UDUPI,2000,Whole Year ,Sugarcane,1374,127919
+UDUPI,2001,Whole Year ,Sugarcane,933,75340
+UDUPI,2002,Whole Year ,Sugarcane,345,29170
+UDUPI,2003,Whole Year ,Sugarcane,29,1901
+UDUPI,2005,Whole Year ,Sugarcane,11,972
+UDUPI,2006,Whole Year ,Sugarcane,10,874
+UDUPI,2007,Whole Year ,Sugarcane,7,592
+UDUPI,2008,Whole Year ,Sugarcane,10,864
+UDUPI,2009,Whole Year ,Sugarcane,56,5373
+UDUPI,2010,Whole Year ,Sugarcane,68,6589
+UDUPI,2011,Whole Year ,Sugarcane,56,5107
+UDUPI,2012,Whole Year ,Sugarcane,66,5518
+UDUPI,2013,Whole Year ,Sugarcane,55,4912
+UDUPI,2014,Whole Year ,Sugarcane,42,3830
+UTTAR KANNAD,1999,Whole Year ,Sugarcane,1616,164266
+UTTAR KANNAD,2000,Whole Year ,Sugarcane,1361,126709
+UTTAR KANNAD,2001,Whole Year ,Sugarcane,1358,109658
+UTTAR KANNAD,2002,Whole Year ,Sugarcane,1033,64769
+UTTAR KANNAD,2003,Whole Year ,Sugarcane,893,58536
+UTTAR KANNAD,2005,Whole Year ,Sugarcane,1029,90912
+UTTAR KANNAD,2006,Whole Year ,Sugarcane,1247,108988
+UTTAR KANNAD,2007,Whole Year ,Sugarcane,1484,125472
+UTTAR KANNAD,2008,Whole Year ,Sugarcane,1242,107371
+UTTAR KANNAD,2009,Whole Year ,Sugarcane,1256,105002
+UTTAR KANNAD,2010,Whole Year ,Sugarcane,1290,137256
+UTTAR KANNAD,2011,Whole Year ,Sugarcane,2744,151194
+UTTAR KANNAD,2012,Whole Year ,Sugarcane,3079,327606
+UTTAR KANNAD,2013,Whole Year ,Sugarcane,5324,419797
+UTTAR KANNAD,2014,Whole Year ,Sugarcane,6207,483525
+YADGIR,2010,Whole Year ,Sugarcane,135,13082
+YADGIR,2011,Whole Year ,Sugarcane,278,25354
+YADGIR,2012,Whole Year ,Sugarcane,1171,97896
+YADGIR,2013,Whole Year ,Sugarcane,1207,107785
+YADGIR,2014,Whole Year ,Sugarcane,862,78614
